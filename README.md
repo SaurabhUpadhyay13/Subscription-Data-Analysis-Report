@@ -67,6 +67,9 @@ Male    United States     226
     <li>Spain leads in the Female category, while the United States dominates in the Male category.</li>
 </ul>
 
+
+![newplot (3)](https://github.com/SaurabhUpadhyay13/Subscription-Data-Analysis-Report/assets/126344704/e5f34c68-dac2-45ce-92b0-7816a6983c0a)
+
 <h2>Subscription Overview</h2>
 <p>A pie chart was employed to showcase the proportion of each subscription type, with sliders for filtering data by plan duration and dropdowns for gender and country, providing enhanced filtering capabilities.</p>
 
@@ -81,6 +84,9 @@ subscription_count = df['Subscription Type'].value_counts()
     <li>Basic plans are the most popular, with 999 subscriptions, followed by Standard (768) and Premium (733).</li>
     <li>Combining Standard and Premium plans exceeds the number of Basic subscriptions, indicating potential growth in higher-tier plans.</li>
 </ul>
+
+![newplot (2)](https://github.com/SaurabhUpadhyay13/Subscription-Data-Analysis-Report/assets/126344704/686db04f-46ac-4c88-b1c9-ad3e6e7608ae)
+
 
 <p>The addition of dropdowns for gender and country further refines the analysis, allowing for a more granular exploration of subscription patterns. Users can now filter the data based on these additional parameters, providing a comprehensive view of subscription preferences across different demographic segments and geographic locations.</p>
 
@@ -115,6 +121,9 @@ Country  Total Revenue
     <li>The United States consistently contributes the highest revenue, followed by Spain.</li>
     <li>European countries and the UK collectively contribute a significant portion of revenue, suggesting growth opportunities in these regions.</li>
 </ul>
+
+![newplot (1)](https://github.com/SaurabhUpadhyay13/Subscription-Data-Analysis-Report/assets/126344704/4d38a86c-87b7-459b-bea0-9e76c384109d)
+
 
 <h2>Additional Charts</h2>
 <p>Additional charts were introduced, offering insights into user preferences and revenue-generating areas. These charts can be toggled using a dropdown menu:</p>
@@ -185,6 +194,9 @@ Country  Total Revenue
     <li>Insights from device count and revenue analyses can optimize subscription plans, aligning them with user preferences.</li>
     <li>Revenue breakdowns by country and gender provide valuable information for tailoring marketing strategies to specific demographics.</li>
 </ul>
+
+![newplot](https://github.com/SaurabhUpadhyay13/Subscription-Data-Analysis-Report/assets/126344704/8a9bc27e-71c3-4818-ac79-c245e5b0b1c3)
+
 
 <h2>Business Insights and Recommendations</h2>
 <h3>User Demographics:</h3>
