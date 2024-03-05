@@ -7,7 +7,7 @@
     <title>Subscription Data Analysis Report</title>
 </head>
 <body>
-
+[Link to Interactive Dashboard](http://127.0.0.1:8050/)
 <h1>Subscription Data Analysis Report</h1>
 
 <h2>Introduction</h2>
